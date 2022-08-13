@@ -1,0 +1,8 @@
+<h1>All Todo</h1>
+
+{% for todo in object_list %}
+<ul>
+    <li>Title: {{todo.title}}</li>
+    <li>Desc: {{todo.body}}</li>
+</ul>
+{% endfor %}
