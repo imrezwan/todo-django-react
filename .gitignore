@@ -1,0 +1,4 @@
+.vscode/
+backend/todo_project/__pycache__/
+backend/todos/migrations/__pycache__/
+backend/todos/__pycache__/
